@@ -1,10 +1,9 @@
 ---
 name: issue
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
+title: ""
+labels: ""
 assignees: ippei-shimizu
-
 ---
 
 ## Goals
